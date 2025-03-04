@@ -6,7 +6,7 @@
     "entrypoint": "shiny.express.app:app_2e_py"
   },
   "python": {
-    "version": "3.12.7",
+    "version": "3.13.2",
     "package_manager": {
       "name": "pip",
       "version": "25.0.1",
@@ -15,7 +15,7 @@
   },
   "files": {
     "requirements.txt": {
-      "checksum": "b2d72e263748624d184c83b20152d032"
+      "checksum": "1c9762d85cf5b2da181ab3df52dc80d6"
     },
     ".gitignore": {
       "checksum": "be74527667c13b30f56da4914e3baf29"
