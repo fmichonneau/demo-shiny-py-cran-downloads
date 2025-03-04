@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "locale": "en_US.UTF-8",
+  "metadata": {
+    "appmode": "python-shiny",
+    "entrypoint": "shiny.express.app:app_2e_py"
+  },
+  "python": {
+    "version": "3.12.7",
+    "package_manager": {
+      "name": "pip",
+      "version": "25.0.1",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "b2d72e263748624d184c83b20152d032"
+    },
+    ".gitignore": {
+      "checksum": "be74527667c13b30f56da4914e3baf29"
+    },
+    ".python-version": {
+      "checksum": "789ee353b44223a8ed8031aa190631dd"
+    },
+    "README.md": {
+      "checksum": "1f0304da7d43d9c5390cfd6a1508fb70"
+    },
+    "app.py": {
+      "checksum": "1e81d54a6b024ed085e6af6a2ca13196"
+    },
+    "memory": {
+      "checksum": "1c37cefa5a8bcfd5f66568f355dff0f2"
+    },
+    "memory.wal": {
+      "checksum": "aa6a0b5b6d2aab63b307892893b2c088"
+    },
+    "pyproject.toml": {
+      "checksum": "7933cf9c67ba4203b1dbef2de613f0f4"
+    },
+    "uv.lock": {
+      "checksum": "dbacd79ae73078939ff49cac063b3fb9"
+    }
+  }
+}
